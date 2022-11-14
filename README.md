@@ -1,3 +1,5 @@
+<div style="background:
+#f5f5f5">
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -110,3 +112,5 @@
 
 <div align="center"></div>
 <br />
+  
+</div>
