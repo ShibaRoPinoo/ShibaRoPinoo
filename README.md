@@ -89,7 +89,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShibaRoPinoo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  ![GitHub Stats]https://gh-readme-profile.vercel.app/api?username=ShibaRoPinoo&hide=repos
+</div>  
 
 <br/>  
 
