@@ -90,9 +90,11 @@
 
 ## Github Stats  
 <div align="center">
-  ![GitHub Stats]https://gh-readme-profile.vercel.app/api?username=ShibaRoPinoo&hide=repos
+  <a href="https://github.com/FajarKim/github-readme-profile">
+    <img src="https://gh-readme-profile.vercel.app/api?username=ShibaRoPinoo&hide=repos" alt="GitHub Stats"/>
+  </a>
 </div>  
-
+  
 <br/>  
 
 
